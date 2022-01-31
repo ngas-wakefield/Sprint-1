@@ -1,0 +1,15 @@
+Whats the difference between Git and GitHub?
+Git is the software or program used to communicate and upload your work to the Github cloud storage
+
+Can you think of an analogy to describe them?
+Git is the messenger and github is the receiver/viewing deck
+
+Do you think you would still remember the difference a week from now if you didn't revisit the material?
+I hope so! 
+
+Did you stick to the timebox suggestions? If not, why not?
+Yes
+
+
+
+
