@@ -8,8 +8,19 @@ Do you think you would still remember the difference a week from now if you didn
 I hope so! 
 
 Did you stick to the timebox suggestions? If not, why not?
-Yes
+I started to but then I lost track of tracking
+
+How would you describe stage and commit to your non-tech-savvy friend?
+
+Staging would be a final draft of a file that hasn't been published yet, committing would be publishing that draft 
 
 
+What is main?
+Main is where the main branch is where you push and pull files to
 
+Why create a branch?
+Creating a branch is useful for multiple creators working on the same project, so everyone can contribute without saving over other peoples work
+
+
+Do the concepts introduced feel intuitive or difficult to understand?
 
